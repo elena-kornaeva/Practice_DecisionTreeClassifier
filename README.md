@@ -96,8 +96,7 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?select=heart.c
 Основные алгоритмы:
 * Decision Trees: алгоритм с критериями: Gini impurity, Entropy
 * Bagging: Bootstrap aggregating для снижения variance
-* Random Forest:
-* Случайные подпространства признаков
+* Random Forest: Случайные подпространства признаков
 * OOB (Out-of-Bag) валидация
 * Feature Importance
 * Gradient Boosting:
