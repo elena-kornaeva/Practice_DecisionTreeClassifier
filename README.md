@@ -118,25 +118,25 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?select=heart.c
 * Визуализация: ROC-кривые, Confusion Matrix
 
 ## 📚 Используемые библиотеки:
-* Анализ данных:
+### Анализ данных:
   - pandas >= 2.0.0
   - numpy >= 1.24.0
 
-* Машинное обучение:
+### Машинное обучение:
  - scikit-learn >= 1.3.0
  - xgboost >= 2.0.0 
  - lightgbm >= 4.0.0
  - catboost >= 1.2.0
 
-* Визуализация:
- - matplotlib >= 3.7.0
- - seaborn >= 0.12.0
+### Визуализация:*
+* matplotlib >= 3.7.0
+* seaborn >= 0.12.0
 
-* Оптимизация: 
+### Оптимизация: 
  - optuna >= 3.0.0
 
-* Jupyter:
- - jupyter >= 1.0.0
+### Jupyter:
+* jupyter >= 1.0.0
 
 ## 📝 Рекомендации по работе
 
