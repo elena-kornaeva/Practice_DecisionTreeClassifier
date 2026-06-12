@@ -123,20 +123,20 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?select=heart.c
   - numpy >= 1.24.0
 
 * Машинное обучение:
-- scikit-learn >= 1.3.0
-- xgboost >= 2.0.0
-- lightgbm >= 4.0.0
-- catboost >= 1.2.0
+ - scikit-learn >= 1.3.0
+ - xgboost >= 2.0.0 
+ - lightgbm >= 4.0.0
+ - catboost >= 1.2.0
 
 * Визуализация:
-- matplotlib >= 3.7.0
-- seaborn >= 0.12.0
+ - matplotlib >= 3.7.0
+ - seaborn >= 0.12.0
 
 * Оптимизация: 
-- optuna >= 3.0.0
+ - optuna >= 3.0.0
 
 * Jupyter:
-- jupyter >= 1.0.0
+ - jupyter >= 1.0.0
 
 ## 📝 Рекомендации по работе
 
