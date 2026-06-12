@@ -94,8 +94,7 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?select=heart.c
 
 ## 🔬 Методы и алгоритмы
 Основные алгоритмы:
-* Decision Trees: CART алгоритм с критериями:
-* Классификация: Gini impurity, Entropy
+* Decision Trees: алгоритм с критериями: Gini impurity, Entropy
 * Bagging: Bootstrap aggregating для снижения variance
 * Random Forest:
 * Случайные подпространства признаков
