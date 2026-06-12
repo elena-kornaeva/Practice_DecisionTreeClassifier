@@ -192,20 +192,28 @@ pip install xgboost catboost optuna
 jupyter notebook
 ```
 Работайте:
-# 1. Утром: открыть Anaconda Prompt
-# 2. Перейти в папку проекта
+## 1. Утром: открыть Anaconda Prompt
+## 2. Перейти в папку проекта
+```bash
 cd D:\...\Practice_DecisionTreeClassifier
+```
 
-# 3. Запустить Jupyter
+## 3. Запустить Jupyter
+```bash
 jupyter notebook
+```
 
-# 4. Работать в ноутбуке, сохранять (Ctrl+S)
+## 4. Работать в ноутбуке, сохранять (Ctrl+S)
 
-# 5. Вечером: открыть GitHub Desktop
-# 6. Сделать Commit to main + Push origin
+## 5. Вечером: открыть GitHub Desktop
+## 6. Сделать Commit to main + Push origin
 
-Полезные команды GitHub Desktop
+# Полезные команды GitHub Desktop:
+
 Скачать изменения напарника: Fetch origin → Pull
+
 Загрузить свои изменения: Commit → Push origin
+
 Посмотреть историю: Вкладка History
+
 Открыть папку проекта: Repository → Show in Explorer
