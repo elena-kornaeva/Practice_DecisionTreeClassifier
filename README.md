@@ -61,6 +61,7 @@ ractice_DecisionTreeClassier/
 git clone https://github.com/elena-kornaeva/Practice_DecisionTreeClassifier.git
 cd Practice_DecisionTreeClassifier
 ```
+или через GitHubDesktop (рекомендуется): File -> Clone Repository
 
 ### 2. Установка зависимостей
 
@@ -70,7 +71,7 @@ pip install -r requirements.txt
 
 или используя Anaconda Prompt (не обычный Command Prompt!):
 ```bash
-conda install -c conda-forge xgboost lightgbm catboost shap optuna
+conda install -r requirements.txt
 ```
 
 
@@ -202,3 +203,9 @@ jupyter notebook
 
 # 5. Вечером: открыть GitHub Desktop
 # 6. Сделать Commit to main + Push origin
+
+Полезные команды GitHub Desktop
+Скачать изменения напарника: Fetch origin → Pull
+Загрузить свои изменения: Commit → Push origin
+Посмотреть историю: Вкладка History
+Открыть папку проекта: Repository → Show in Explorer
