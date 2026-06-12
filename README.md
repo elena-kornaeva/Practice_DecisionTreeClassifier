@@ -77,14 +77,15 @@ conda install -r requirements.txt
 
 ## Загрузка данных
 Скачайте датасеты с Kaggle и поместите их в папку data/raw/:
+
 https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?select=heart.csv
 
 ## Последовательность работы:
-01_EDA.ipynb - Разведочный анализ данных и предобработка
-02_Baseline_Models.ipynb - Обучение базовых моделей (Decision Tree)
-03_Random_Forest.ipynb - Построение ансамблей (Bagging, Random Forest)
-04_Gradient_Boosting.ipynb - Градиентный бустинг (XGBoost, LightGBM, CatBoost)
-05_Comparison.ipynb - Сравнительный анализ и интерпретация (SHAP)
+* 01_EDA.ipynb - Разведочный анализ данных и предобработка
+* 02_Baseline_Models.ipynb - Обучение базовых моделей (Decision Tree)
+* 03_Random_Forest.ipynb - Построение ансамблей (Bagging, Random Forest)
+* 04_Gradient_Boosting.ipynb - Градиентный бустинг (XGBoost, LightGBM, CatBoost)
+* 05_Comparison.ipynb - Сравнительный анализ и интерпретация (SHAP)
 
 🔬 Методы и алгоритмы
 Основные алгоритмы
@@ -198,17 +199,17 @@ jupyter notebook
 cd D:\...\Practice_DecisionTreeClassifier
 ```
 
-## 3. Запустить Jupyter
+### 3. Запустить Jupyter
 ```bash
 jupyter notebook
 ```
 
-## 4. Работать в ноутбуке, сохранять (Ctrl+S)
+### 4. Работать в ноутбуке, сохранять (Ctrl+S)
 
-## 5. Вечером: открыть GitHub Desktop
-## 6. Сделать Commit to main + Push origin
+### 5. Вечером: открыть GitHub Desktop
+### 6. Сделать Commit to main + Push origin
 
-# Полезные команды GitHub Desktop:
+### Полезные команды GitHub Desktop:
 
 Скачать изменения напарника: Fetch origin → Pull
 
