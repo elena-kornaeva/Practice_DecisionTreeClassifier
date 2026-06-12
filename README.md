@@ -200,7 +200,7 @@ jupyter notebook
 cd D:\...\Practice_DecisionTreeClassifier
 ```
 
-### 3. Запустить Jupyter
+3. Запустить Jupyter
 ```bash
 jupyter notebook
 ```
