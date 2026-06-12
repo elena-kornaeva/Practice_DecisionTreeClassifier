@@ -2,11 +2,11 @@
 # 📊 Учебная практика
 ##  Построение и анализ ансамблевых моделей (Random Forest, Gradient Boosting): классификация
 
-## 👥 Исполнители
+### 👥 Исполнители
 - Студент 1: [Bairamov Alan]
 - Студент 2: [Ermolaev Kirill]
 
-## 📅 Срок выполнения
+### 📅 Срок выполнения
 Июнь 2026 (6 недель)
 
 ## 🎯 Цель проекта
@@ -121,18 +121,23 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?select=heart.c
 * Анализ данных:
 
 pandas >= 2.0.0
+
 numpy >= 1.24.0
 
 * Машинное обучение:
 
 scikit-learn >= 1.3.0
+
 xgboost >= 2.0.0
+
 lightgbm >= 4.0.0
+
 catboost >= 1.2.0
 
 * Визуализация:
 
 matplotlib >= 3.7.0
+
 seaborn >= 0.12.0
 
 * Оптимизация: 
