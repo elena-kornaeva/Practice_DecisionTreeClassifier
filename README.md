@@ -119,8 +119,8 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?select=heart.c
 
 ## 📚 Используемые библиотеки:
 * Анализ данных:
- - pandas >= 2.0.0
- - numpy >= 1.24.0
+  - pandas >= 2.0.0
+  - numpy >= 1.24.0
 
 * Машинное обучение:
 - scikit-learn >= 1.3.0
