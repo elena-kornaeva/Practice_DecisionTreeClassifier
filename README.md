@@ -1,7 +1,6 @@
-# Practice_DecisionTreeClassifier
 
-
-# 📊 Учебная практика: Учебная практика: Построение и анализ ансамблевых моделей (Random Forest, Gradient Boosting): классификация
+# 📊 Учебная практика
+##  Построение и анализ ансамблевых моделей (Random Forest, Gradient Boosting): классификация
 
 ## 👥 Исполнители
 - Студент 1: [Bairamov Alan]
@@ -97,9 +96,9 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?select=heart.c
 * OOB (Out-of-Bag) валидация
 * Feature Importance
 * Gradient Boosting:
-** XGBoost: Градиентный бустинг с регуляризацией
-** LightGBM: Гистограммный бустинг
-** CatBoost: Обработка категориальных признаков
+* * XGBoost: Градиентный бустинг с регуляризацией
+* * LightGBM: Гистограммный бустинг
+* * CatBoost: Обработка категориальных признаков
 
 ## Метрики качества:
 Для классификации:
@@ -119,24 +118,29 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?select=heart.c
 * Визуализация: ROC-кривые, Confusion Matrix
 
 ## 📚 Используемые библиотеки:
-* Анализ данных
+* Анализ данных:
+
 pandas >= 2.0.0
 numpy >= 1.24.0
 
-* Машинное обучение
+* Машинное обучение:
+
 scikit-learn >= 1.3.0
 xgboost >= 2.0.0
 lightgbm >= 4.0.0
 catboost >= 1.2.0
 
-* Визуализация
+* Визуализация:
+
 matplotlib >= 3.7.0
 seaborn >= 0.12.0
 
-#*Оптимизация
+* Оптимизация: 
+
 optuna >= 3.0.0
 
-* Jupyter
+* Jupyter:
+
 jupyter >= 1.0.0
 
 ## 📝 Рекомендации по работе
