@@ -98,7 +98,7 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?select=heart.c
 * Bagging: Bootstrap aggregating для снижения variance
 * Random Forest: Случайные подпространства признаков
 * OOB (Out-of-Bag) валидация
-* Feature Importance
+* Feature Importance: feature_importances_
 * Gradient Boosting:
   - XGBoost: Градиентный бустинг с регуляризацией
   - LightGBM: Гистограммный бустинг
