@@ -26,9 +26,10 @@
   - Random Forest (Случайный лес)
   - Gradient Boosting (Градиентный бустинг: XGBoost, LightGBM, CatBoost, выбрать одну из моделей)
 
-```
+
 ## 📁 Структура проекта
-ractice_DecisionTreeClassier/
+```
+practice_DecisionTreeClassier/
 │
 ├── data/                 # Данные (не загружаются в Git)
 │   ├── raw/              # Исходные данные (не трогать!)
