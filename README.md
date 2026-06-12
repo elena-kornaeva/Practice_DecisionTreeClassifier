@@ -87,108 +87,110 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?select=heart.c
 * 04_Gradient_Boosting.ipynb - Градиентный бустинг (XGBoost, LightGBM, CatBoost)
 * 05_Comparison.ipynb - Сравнительный анализ и интерпретация (SHAP)
 
-🔬 Методы и алгоритмы
-Основные алгоритмы
-Decision Trees: CART алгоритм с критериями:
-Классификация: Gini impurity, Entropy
-Bagging: Bootstrap aggregating для снижения variance
-Random Forest:
-Случайные подпространства признаков
-OOB (Out-of-Bag) валидация
-Feature Importance
-Gradient Boosting:
-XGBoost: Градиентный бустинг с регуляризацией
-LightGBM: Гистограммный бустинг
-CatBoost: Обработка категориальных признаков
+## 🔬 Методы и алгоритмы
+Основные алгоритмы:
+* Decision Trees: CART алгоритм с критериями:
+* Классификация: Gini impurity, Entropy
+* Bagging: Bootstrap aggregating для снижения variance
+* Random Forest:
+* Случайные подпространства признаков
+* OOB (Out-of-Bag) валидация
+* Feature Importance
+* Gradient Boosting:
+** XGBoost: Градиентный бустинг с регуляризацией
+** LightGBM: Гистограммный бустинг
+** CatBoost: Обработка категориальных признаков
 
-Метрики качества
+## Метрики качества:
 Для классификации:
-Accuracy, Precision, Recall, F1-Score
-ROC-AUC, PR-AUC
-Confusion Matrix
+* Accuracy, Precision, Recall, F1-Score
+* ROC-AUC, PR-AUC
+* onfusion Matrix
 
-Дополнительные техники
-Cross-Validation: StratifiedKFold / KFold
-Hyperparameter Tuning: RandomizedSearchCV, Optuna
-Feature Engineering: Создание новых признаков
+## Дополнительные техники:
+* Cross-Validation: StratifiedKFold / KFold
+* Hyperparameter Tuning: RandomizedSearchCV, Optuna
+* Feature Engineering: Создание новых признаков
 
-📈 Ожидаемые результаты
+## 📈 Ожидаемые результаты
 Для классификации
-Метрики: ROC-AUC > 0.85, F1-Score > 0.80
-Интерпретация: Выявление ключевых факторов (например, курение для Stroke Prediction)
-Визуализация: ROC-кривые, Confusion Matrix
-Для регрессии
-Метрики: R² > 0.85, MAPE < 20%
-Интерпретация: Влияние признаков на целевую переменную
-Визуализация: Predicted vs Actual, Residuals plot
+* Метрики: ROC-AUC > 0.85, F1-Score > 0.80
+* Интерпретация: Выявление ключевых факторов (например, курение для Stroke Prediction)
+* Визуализация: ROC-кривые, Confusion Matrix
 
-📚 Используемые библиотеки:
-# Анализ данных
+## 📚 Используемые библиотеки:
+* Анализ данных
 pandas >= 2.0.0
 numpy >= 1.24.0
 
-# Машинное обучение
+* Машинное обучение
 scikit-learn >= 1.3.0
 xgboost >= 2.0.0
 lightgbm >= 4.0.0
 catboost >= 1.2.0
 
-# Визуализация
+* Визуализация
 matplotlib >= 3.7.0
 seaborn >= 0.12.0
 
-# Оптимизация
+#*Оптимизация
 optuna >= 3.0.0
 
-# Jupyter
+* Jupyter
 jupyter >= 1.0.0
 
-📝 Рекомендации по работе
+## 📝 Рекомендации по работе
 
-Работа с Git:
-Делайте коммиты после каждого этапа
-Пишите понятные сообщения коммитов
-Синхронизируйтесь с напарником ежедневно
+### Работа с Git:
+* Делайте коммиты после каждого этапа
+* Пишите понятные сообщения коммитов
+* Синхронизируйтесь с напарником ежедневно
 
-Организация кода:
-Один ноутбук = один этап
-Используйте utils.py для общих функций
-Сохраняйте все графики в reports/figures/
+### Организация кода:
+* Один ноутбук = один этап
+* Используйте utils.py для общих функций
+* Сохраняйте все графики в reports/figures/
 
-Эксперименты:
-Фиксируйте все гиперпараметры
-Ведите таблицу результатов (Excel/Google Sheets)
-Сохраняйте лучшие модели через joblib
+### Эксперименты:
+* Фиксируйте все гиперпараметры
+* Ведите таблицу результатов (Excel/Google Sheets)
+* Сохраняйте лучшие модели через joblib
 
-Отчетность:
-Начинайте писать отчет с первой недели
-Сохраняйте все важные графики
-Формулируйте выводы после каждого этапа
+### Отчетность:
+* Начинайте писать отчет с первой недели
+* Сохраняйте все важные графики
+* Формулируйте выводы после каждого этапа
 
-🎓 Образовательные цели
+## 🎓 Образовательные цели
 После завершения практики студенты смогут:
+
 ✅ Понимать математику ансамблевых методов
+
 ✅ Применять Bagging и Boosting на практике
+
 ✅ Проводить полный цикл ML-проекта
+
 ✅ Работать в команде с использованием Git
+
 ✅ Проводить вычислительные эксперименты
 
-##🎓 Иинструкция по установке ПО:
-Скачайте Anaconda3 с https://www.anaconda.com/download/success (для windows)
-Установите с настройками по умолчанию (галочка "Register as default Python" — ДА, "Add to PATH" — НЕТ)
-Откройте Anaconda Prompt из меню Пуск
-Перейдите в папку проекта:
+
+## 🎓 Иинструкция по установке ПО:
+* Скачайте Anaconda3 с https://www.anaconda.com/download/success (для windows)
+* Установите с настройками по умолчанию (галочка "Register as default Python" — ДА, "Add to PATH" — НЕТ)
+* Откройте Anaconda Prompt из меню Пуск
+* Перейдите в папку проекта:
 
 ```bash
 cd D:\...\Practice_DecisionTreeClassifier
 ```
-Доустановите библиотеки:
+* Доустановите библиотеки:
 
 ```bash
 pip install xgboost catboost optuna
 ```
 
-Запустите Jupyter:
+* Запустите Jupyter:
 ```bash
 jupyter notebook
 ```
