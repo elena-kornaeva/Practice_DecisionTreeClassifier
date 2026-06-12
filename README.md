@@ -174,7 +174,7 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?select=heart.c
 ✅ Проводить вычислительные эксперименты
 
 
-## 🎓 Иинструкция по установке ПО:
+## 🎓 Инструкция по установке ПО:
 * Скачайте Anaconda3 с https://www.anaconda.com/download/success (для windows)
 * Установите с настройками по умолчанию (галочка "Register as default Python" — ДА, "Add to PATH" — НЕТ)
 * Откройте Anaconda Prompt из меню Пуск
@@ -194,8 +194,8 @@ pip install xgboost catboost optuna
 jupyter notebook
 ```
 ## Работайте:
-### 1. Утром: открыть Anaconda Prompt
-### 2. Перейти в папку проекта
+1. Утром: открыть Anaconda Prompt
+2. Перейти в папку проекта
 ```bash
 cd D:\...\Practice_DecisionTreeClassifier
 ```
@@ -205,17 +205,14 @@ cd D:\...\Practice_DecisionTreeClassifier
 jupyter notebook
 ```
 
-### 4. Работать в ноутбуке, сохранять (Ctrl+S)
+4. Работать в ноутбуке, сохранять (Ctrl+S)
 
-### 5. Вечером: открыть GitHub Desktop
-### 6. Сделать Commit to main + Push origin
+5. Вечером: открыть GitHub Desktop
+6. Сделать Commit to main + Push origin
 
 ### Полезные команды GitHub Desktop:
 
-Скачать изменения напарника: Fetch origin → Pull
-
-Загрузить свои изменения: Commit → Push origin
-
-Посмотреть историю: Вкладка History
-
-Открыть папку проекта: Repository → Show in Explorer
+* Скачать изменения напарника: Fetch origin → Pull
+* Загрузить свои изменения: Commit → Push origin
+* Посмотреть историю: Вкладка History
+* Открыть папку проекта: Repository → Show in Explorer
