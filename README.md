@@ -191,9 +191,9 @@ pip install xgboost catboost optuna
 ```bash
 jupyter notebook
 ```
-Работайте:
-## 1. Утром: открыть Anaconda Prompt
-## 2. Перейти в папку проекта
+## Работайте:
+### 1. Утром: открыть Anaconda Prompt
+### 2. Перейти в папку проекта
 ```bash
 cd D:\...\Practice_DecisionTreeClassifier
 ```
