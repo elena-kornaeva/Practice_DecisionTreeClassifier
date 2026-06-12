@@ -108,7 +108,7 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?select=heart.c
 Для классификации:
 * Accuracy, Precision, Recall, F1-Score
 * ROC-AUC, PR-AUC
-* onfusion Matrix
+* Сonfusion Matrix
 
 ## Дополнительные техники:
 * Cross-Validation: StratifiedKFold / KFold
