@@ -90,7 +90,7 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?select=heart.c
 * 02_Baseline_Models.ipynb - Обучение базовых моделей (Decision Tree)
 * 03_Random_Forest.ipynb - Построение ансамблей (Bagging, Random Forest)
 * 04_Gradient_Boosting.ipynb - Градиентный бустинг (XGBoost, LightGBM, CatBoost)
-* 05_Comparison.ipynb - Сравнительный анализ и интерпретация (SHAP)
+* 05_Comparison.ipynb - Сравнительный анализ и интерпретация
 
 ## 🔬 Методы и алгоритмы
 Основные алгоритмы:
