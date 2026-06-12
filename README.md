@@ -201,4 +201,4 @@ jupyter notebook
 # 4. Работать в ноутбуке, сохранять (Ctrl+S)
 
 # 5. Вечером: открыть GitHub Desktop
-# 6. Сделать Commit → Push
+# 6. Сделать Commit to main + Push origin
