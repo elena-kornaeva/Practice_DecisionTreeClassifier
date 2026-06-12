@@ -12,7 +12,7 @@
 ## 🎯 Цель проекта
 Построение и анализ ансамблевых моделей на основе решающих деревьев для задачи классификации: 
 ### датасет: Heart Disease Dataset
-- **Источник:** [Kaggle] (https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?select=heart.csv)
+- **Источник:** [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?select=heart.csv)
 - **Автор:** johnsmith88 (оригинальные данные: Cleveland Clinic Foundation)
 - **Лицензия:** Не указана (Unknown)
 - **Задача:** Классификация — прогнозирование наличия заболевания сердца
