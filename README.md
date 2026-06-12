@@ -75,7 +75,7 @@ conda install -r requirements.txt
 
 
 ## Загрузка данных
-Скачайте датасеты с Kaggle и поместите их в папку data/raw/:
+Скачайте датасеты с Kaggle и поместите их в предварительно созданную папку data/raw/:
 
 https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?select=heart.csv
 
