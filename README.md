@@ -27,7 +27,7 @@
   - Gradient Boosting (Градиентный бустинг: XGBoost, LightGBM, CatBoost, выбрать одну из моделей)
 
 
-## 📁 Структура проекта
+## 📁 Предварительная структура проекта
 ```
 practice_DecisionTreeClassier/
 │
