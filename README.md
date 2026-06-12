@@ -34,7 +34,7 @@ practice_DecisionTreeClassier/
 ├── data/                 # Данные (не загружаются в Git)
 │   ├── raw/              # Исходные данные (не трогать!)
 │   ├── processed/        # Очищенные, подготовленные данные
-│   ── README.md          # Описание датасета
+│   ├── README.md          # Описание датасета
 │
 ├── notebooks/
 │   ├── 01_EDA.ipynb      # Разведочный анализ
@@ -51,7 +51,7 @@ practice_DecisionTreeClassier/
 │
 ── reports/
 │   ├── figures/          # Графики и визуализации
-│   ── final_report.pdf  # Итоговый отчет
+│   ├── final_report.pdf  # Итоговый отчет
 │
 ├── requirements.txt      # Зависимости
 ├── README.md             # Описание проекта
