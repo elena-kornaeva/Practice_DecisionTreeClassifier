@@ -60,11 +60,14 @@ ractice_DecisionTreeClassier/
 ```bash
 git clone https://github.com/elena-kornaeva/Practice_DecisionTreeClassifier.git
 cd Practice_DecisionTreeClassifier
+```
 
-##. Установка зависимостей
+### 2. Установка зависимостей
 
-'''bash
+```bash
 pip install -r requirements.txt
+```
+
 
 ## Загрузка данных
 Скачайте датасеты с Kaggle и поместите их в папку data/raw/:
