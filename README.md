@@ -68,6 +68,11 @@ cd Practice_DecisionTreeClassifier
 pip install -r requirements.txt
 ```
 
+или используя Anaconda Prompt (не обычный Command Prompt!):
+```bash
+conda install -c conda-forge xgboost lightgbm catboost shap optuna
+```
+
 
 ## Загрузка данных
 Скачайте датасеты с Kaggle и поместите их в папку data/raw/:
@@ -84,7 +89,6 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?select=heart.c
 Основные алгоритмы
 Decision Trees: CART алгоритм с критериями:
 Классификация: Gini impurity, Entropy
-Регрессия: MSE, MAE, Friedman MSE
 Bagging: Bootstrap aggregating для снижения variance
 Random Forest:
 Случайные подпространства признаков
@@ -115,6 +119,7 @@ Feature Engineering: Создание новых признаков
 Метрики: R² > 0.85, MAPE < 20%
 Интерпретация: Влияние признаков на целевую переменную
 Визуализация: Predicted vs Actual, Residuals plot
+
 📚 Используемые библиотеки:
 # Анализ данных
 pandas >= 2.0.0
@@ -165,3 +170,35 @@ jupyter >= 1.0.0
 ✅ Проводить полный цикл ML-проекта
 ✅ Работать в команде с использованием Git
 ✅ Проводить вычислительные эксперименты
+
+##🎓 Иинструкция по установке ПО:
+Скачайте Anaconda3 с https://www.anaconda.com/download/success (для windows)
+Установите с настройками по умолчанию (галочка "Register as default Python" — ДА, "Add to PATH" — НЕТ)
+Откройте Anaconda Prompt из меню Пуск
+Перейдите в папку проекта:
+
+```bash
+cd D:\...\Practice_DecisionTreeClassifier
+```
+Доустановите библиотеки:
+
+```bash
+pip install xgboost catboost optuna
+```
+
+Запустите Jupyter:
+```bash
+jupyter notebook
+```
+Работайте:
+# 1. Утром: открыть Anaconda Prompt
+# 2. Перейти в папку проекта
+cd D:\...\Practice_DecisionTreeClassifier
+
+# 3. Запустить Jupyter
+jupyter notebook
+
+# 4. Работать в ноутбуке, сохранять (Ctrl+S)
+
+# 5. Вечером: открыть GitHub Desktop
+# 6. Сделать Commit → Push
