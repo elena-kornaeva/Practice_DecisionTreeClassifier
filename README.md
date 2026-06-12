@@ -96,9 +96,9 @@ https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset?select=heart.c
 * OOB (Out-of-Bag) валидация
 * Feature Importance
 * Gradient Boosting:
-* * XGBoost: Градиентный бустинг с регуляризацией
-* * LightGBM: Гистограммный бустинг
-* * CatBoost: Обработка категориальных признаков
+  - XGBoost: Градиентный бустинг с регуляризацией
+  - LightGBM: Гистограммный бустинг
+  - CatBoost: Обработка категориальных признаков
 
 ## Метрики качества:
 Для классификации:
